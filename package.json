@@ -1,0 +1,19 @@
+{
+    "name": "collagen-salesforce",
+    "description": "Salesforce back-end for Collagen.js models.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Victor Kareh",
+        "url": "http://www.vkareh.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vkareh/collagen-salesforce.git"
+    },
+    "main": "./index.js",
+    "dependencies": {
+        "node-salesforce": "0.5.x"
+    },
+    "keywords": ["collagen", "salesforce"],
+    "license": "MIT"
+}
